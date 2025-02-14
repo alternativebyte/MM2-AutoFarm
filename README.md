@@ -1,2 +1,4 @@
-# MM2-AutoFarm
-Automated MM2 Autofarm
+# dear bot farm owners:
+## this code sucks go do something else
+
+# report my BUGGY code please ok bye yeah
